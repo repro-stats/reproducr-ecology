@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 [![reproducibility](https://img.shields.io/badge/reproducibility-reproducible-brightgreen)](https://ndohpenngit.github.io/reproducr/)
-[![R-CMD-check](https://github.com/ndohpenngit/reproducr-example/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/ndohpenngit/reproducr-example/actions/workflows/R-CMD-check.yml)
+[![R-CMD-check](https://github.com/ndohpenngit/reproducr-example/actions/workflows/reproducr-example-R-CMD-check.yml/badge.svg)](https://github.com/ndohpenngit/reproducr-example/actions/workflows/reproducr-example-R-CMD-check.yml)
 <!-- badges: end -->
 
 > A live end-to-end demonstration of the [`reproducr`](https://github.com/ndohpenngit/reproducr)
