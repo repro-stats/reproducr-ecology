@@ -1,8 +1,8 @@
-# reproducr-example <a href="https://repro-stats.github.io/reproducr/"><img src="https://raw.githubusercontent.com/repro-stats/reproducr/main/man/figures/logo.svg" align="right" height="120" alt="reproducr website" /></a>
+# reproducr-ecology <a href="https://repro-stats.github.io/reproducr/"><img src="https://raw.githubusercontent.com/repro-stats/reproducr/main/man/figures/logo.svg" align="right" height="120" alt="reproducr website" /></a>
 
 <!-- badges: start -->
 [![reproducibility](https://img.shields.io/badge/reproducibility-reproducible-brightgreen)](https://repro-stats.github.io/reproducr/)
-[![R-CMD-check](https://github.com/repro-stats/reproducr-example/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/repro-stats/reproducr-example/actions/workflows/R-CMD-check.yml)
+[![R-CMD-check](https://github.com/repro-stats/reproducr-ecology/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/repro-stats/reproducr-ecology/actions/workflows/R-CMD-check.yml)
 <!-- badges: end -->
 
 > A live end-to-end demonstration of the [`reproducr`](https://github.com/repro-stats/reproducr)

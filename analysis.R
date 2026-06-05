@@ -1,5 +1,5 @@
 # Palmer Penguins — Species Body Mass Analysis
-# reproducr-example: https://github.com/repro-stats/reproducr-example
+# reproducr-ecology: https://github.com/repro-stats/reproducr-ecology
 #
 # This script demonstrates a reproducr-aware analysis workflow:
 #   - All qualified calls use pkg::fn namespace
