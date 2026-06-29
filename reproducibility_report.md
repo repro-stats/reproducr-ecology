@@ -1,7 +1,7 @@
 # reproducr audit report
 
-- **Generated:** 2026-06-22 09:53
-- **R version:** 4.6.0
+- **Generated:** 2026-06-29 12:46
+- **R version:** 4.6.1
 - **Platform:** Linux 6.17.0-1018-azure
 - **Files scanned:** 1
 - **Packages found:** 1
